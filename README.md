@@ -6,7 +6,6 @@ All this does is to spit out some different names of environments and such that 
 Also does some virtual dicerolling when it comes to the "Difficulty"
 Originally scripted to be all in one file, but I lost my patience and separated them.
 
-Will probably revisit this once I've learned more and add some features
-Things I'd like to add are as follow:
+Will probably revisit this once I've learned more and add some features, things I'd like to add are as follow:
 
-An actual GUI with some nice blurred out post-apocalyptic pictures, the ability for the user to input their own text and better threat generation
+An actual GUI with some nice blurred out post-apocalyptic background pictures, the ability for the user to input their own text and better threat generation.
