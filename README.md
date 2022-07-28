@@ -9,6 +9,4 @@ Originally scripted to be all in one file, but I lost my patience and separated 
 Will probably revisit this once I've learned more and add some features
 Things I'd like to add are as follow:
 
-An actual GUI with some nice blurred out post-apocalyptic pictures
-The ability for the user to input their own text
-Better threat generation
+An actual GUI with some nice blurred out post-apocalyptic pictures, the ability for the user to input their own text and better threat generation
